@@ -1,0 +1,19 @@
+public class OperatorsFirst{
+
+	public static void main(String[] args){
+
+        int m = 5 , n = 6;
+        int r1 = m + n;
+	int r2 = m - n;
+ 	int r3 = m * n;
+	float r4 = (float) m /(float) n;
+        System.out.print(r4);	
+
+
+
+	}
+
+
+
+
+}

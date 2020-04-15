@@ -43,6 +43,5 @@ public class CalculatorDemo{
 	   System.out.println(obj.divi(num1,num2));
 	   break;
 	}
-	}
+    }
 }
-

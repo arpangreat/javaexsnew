@@ -22,5 +22,5 @@ public class FinalDemo{
 	B obj1 = new B();
 	obj1.show();
 	}
-}
+
 

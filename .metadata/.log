@@ -1,0 +1,1181 @@
+!SESSION 2021-04-28 10:23:22.632 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  -data /home/arpangreat/javaexsnew --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:24.700
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:24.914
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:24.962
+!MESSAGE >> initialize
+!SESSION 2021-04-28 10:23:23.104 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  -data /home/arpangreat/javaexsnew --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.014
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.017
+!MESSAGE Initializing Java Language Server 1.1.0.202104272004
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.045
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.046
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.065
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.072
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.165
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.351
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.668
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:25.669
+!MESSAGE No previous Gradle project at /home/arpangreat/new, it must be synchronized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:37.714
+!MESSAGE Workspace initialized in 12665ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:37.813
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:37.815
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:37.861
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:37.866
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:37.983
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.082
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.087
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.095
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.097
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.195
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.196
+!MESSAGE 1 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.200
+!MESSAGE Validated 1. Took 212 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.204
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.205
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.208
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.210
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.213
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.215
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.218
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.221
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.222
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.225
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.228
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.231
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.234
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.236
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.238
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.241
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.243
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.245
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.247
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.248
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.251
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.254
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.256
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.258
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.260
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.265
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.266
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.266
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.271
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.272
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.274
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.276
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.279
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.281
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.284
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.286
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.290
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.291
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.294
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.297
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.298
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.299
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.302
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.306
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.307
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.307
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.309
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.314
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.314
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.316
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.318
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.331
+!MESSAGE Reconciled 0. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.355
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.356
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.361
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.362
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.385
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.386
+!MESSAGE 1 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.386
+!MESSAGE Validated 1. Took 50 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.388
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.393
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.394
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.397
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.399
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.403
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.404
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.406
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.409
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.411
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.412
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.414
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.423
+!MESSAGE Reconciled 0. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.442
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.442
+!MESSAGE 2 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.442
+!MESSAGE Validated 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.458
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.461
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:38.462
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.328
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.330
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.333
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.335
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.337
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.609
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.612
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.614
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.617
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.619
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.620
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.622
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.932
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.935
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:40.937
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:41.220
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:41.222
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:41.226
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:41.625
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:41.925
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:42.330
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:42.793
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:42.793
+!MESSAGE 5 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:42.794
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:45.096
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:45.852
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:45.858
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:45.884
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:45.891
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:45.925
+!MESSAGE >> initialize
+!SESSION 2021-04-28 10:23:48.484 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  -data /home/arpangreat/javaexsnew --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:49.930
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.123
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.162
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.267
+!MESSAGE Initializing Java Language Server 1.1.0.202104272004
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.299
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.300
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+!SESSION 2021-04-28 10:23:48.951 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  -data /home/arpangreat/javaexsnew --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.305
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.326
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.591
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.848
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.854
+!MESSAGE Workspace initialized in 549ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.929
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.933
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.933
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.946
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:50.946
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:51.073
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:51.484
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:51.785
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:52.243
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:52.305
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:52.475
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:52.632
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:52.793
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:53.242
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:53.650
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:53.915
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:54.074
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:54.079
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:54.083
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:54.086
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:54.088
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:54.502
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:54.745
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:55.203
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:55.310
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:55.766
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:55.835
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:56.015
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:56.175
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:56.357
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:56.814
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:57.002
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:57.458
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:58.007
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:58.007
+!MESSAGE 2 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:58.010
+!MESSAGE Validated 1. Took 150 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:58.901
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.190
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.195
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.199
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.202
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.204
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.326
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.331
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.335
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.337
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.339
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.341
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.343
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.537
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.542
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.546
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.549
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.552
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.554
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.555
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.557
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.559
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.752
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.756
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.759
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.762
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.764
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.766
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.768
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.770
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.772
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.774
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:23:59.776
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:00.224
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:00.544
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:00.949
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:01.258
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:01.664
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:01.772
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:02.032
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:02.437
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:02.657
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:02.853
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:03.023
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:03.261
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:03.716
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:04.192
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:04.192
+!MESSAGE 5 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:04.193
+!MESSAGE Validated 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:05.593
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:05.834
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:06.052
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:06.245
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:06.611
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:06.788
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:06.953
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:07.155
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:07.321
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:07.776
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:07.801
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:07.913
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:07.916
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:07.918
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:07.920
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:07.921
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.114
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.117
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.119
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.121
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.123
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.125
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.126
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.265
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.268
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.270
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.272
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.274
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.276
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.277
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.278
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.279
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.733
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:08.843
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:09.022
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:09.186
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:09.346
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:09.485
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:09.898
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:10.129
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:10.376
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:10.572
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:11.025
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:11.118
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:11.573
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:11.809
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:11.812
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:11.813
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:11.815
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:11.816
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:11.988
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:12.393
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:12.855
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:12.855
+!MESSAGE 5 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:12.856
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:12.961
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:13.113
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:13.318
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:13.773
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:14.220
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:14.624
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:15.047
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:15.047
+!MESSAGE 6 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:15.048
+!MESSAGE Validated 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:15.101
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:15.297
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:15.509
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:15.913
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:16.326
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:16.326
+!MESSAGE 5 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:16.327
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:21.676
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:21.681
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:21.701
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:21.706
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-04-28 10:24:26.244 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  -data /home/arpangreat/javaexsnew --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:27.294
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:27.432
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:27.455
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:27.523
+!MESSAGE Initializing Java Language Server 1.1.0.202104272004
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:27.549
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:27.550
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:27.568
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.096
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.102
+!MESSAGE Workspace initialized in 548ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.178
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.181
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.333
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.345
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.348
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.503
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.508
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.509
+!MESSAGE 6 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.513
+!MESSAGE Validated 1. Took 149 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.528
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.539
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:28.540
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:30.535
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:30.751
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:30.943
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:31.115
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:31.286
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:31.693
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:32.088
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:32.279
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:32.433
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:32.745
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:33.006
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:33.463
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:33.942
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:33.942
+!MESSAGE 5 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:33.943
+!MESSAGE Validated 1. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:35.000
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:35.405
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:35.814
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:35.819
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:35.820
+!MESSAGE 2 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:35.821
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:35.825
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:35.828
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.226
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.641
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.642
+!MESSAGE 5 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.642
+!MESSAGE Validated 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.746
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.750
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.754
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.757
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.760
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:36.909
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:37.177
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:37.584
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:37.596
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:37.797
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:37.849
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:37.907
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:37.911
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:38.255
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:38.665
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:38.665
+!MESSAGE 5 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:38.666
+!MESSAGE Validated 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:41.358
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:41.733
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:42.092
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:42.548
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:43.009
+!MESSAGE begin problem for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:43.009
+!MESSAGE 0 problems reported for /main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:43.010
+!MESSAGE Validated 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:49.602
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:50.143
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:50.147
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:50.188
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-04-28 10:24:50.193
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

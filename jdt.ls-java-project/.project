@@ -18,7 +18,12 @@
 		<link>
 			<name>src/AdvCalculator.java</name>
 			<type>1</type>
-			<location>//home/arpangreat/javaexsnew/javaexs/AdvancedCalculator/AdvCalculator.java</location>
+			<location>/home/arpangreat/javaexsnew/javaexs/AdvancedCalculator/AdvCalculator.java</location>
+		</link>
+		<link>
+			<name>src/DijkstraAlgo.java</name>
+			<type>1</type>
+			<location>//home/arpangreat/javaexsnew/javaexs/DijkstraAlgorithm/DijkstraAlgo.java</location>
 		</link>
 	</linkedResources>
 </projectDescription>

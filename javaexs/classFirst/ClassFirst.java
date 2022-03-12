@@ -11,10 +11,6 @@ class Calc{
 
 }
 
-
-
-
-
 public class ClassFirst{
    
 	public static void main(String[] args){

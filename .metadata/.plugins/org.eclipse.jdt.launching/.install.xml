@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="/usr/lib/jvm/java-17-openjdk" stamp="1647109839169"/>
     <entry loc="/usr/lib/jvm/java-15-openjdk" stamp="1619584600020"/>
 </dirs>

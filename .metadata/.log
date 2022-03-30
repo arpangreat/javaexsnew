@@ -1859,3 +1859,561 @@ Command-line arguments:  -data /home/arpangreat/javaexsnew
 
 !ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-13 01:07:20.753
 !MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-03-25 02:52:18.128 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.3
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/arpangreat/javaexsnew
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:19.560
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.029
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.068
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.070
+!MESSAGE Initializing Java Language Server 1.10.0.202203080832
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.075
+!MESSAGE No workspace folders or root uri was defined. Falling back on /home/arpangreat/javaexsnew
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.103
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.103
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.115
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.116
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.119
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.120
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.145
+!MESSAGE Started org.eclipse.buildship.core 26ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.415
+!MESSAGE LoadingGradleVersionJob finished 269ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:21.441
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:22.141
+!MESSAGE Workspace initialized in 723ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:22.168
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:22.175
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:22.193
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:22.199
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:22.199
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:22.670
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:22.809
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:23.319
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:23.377
+!MESSAGE begin problem for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:23.379
+!MESSAGE Resource leak: 'sc' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:23.380
+!MESSAGE Resource leak: 'sc1' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:23.381
+!MESSAGE Resource leak: 'sc2' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:23.382
+!MESSAGE Resource leak: 'sc3' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:23.382
+!MESSAGE 5 problems reported for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:23.386
+!MESSAGE Validated 1. Took 150 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:24.140
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:24.954
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:25.858
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:26.130
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:26.358
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:26.561
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:28.153
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:28.260
+!MESSAGE Reconciled 1. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:28.410
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:28.850
+!MESSAGE begin problem for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:28.852
+!MESSAGE Resource leak: 'sc' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:28.861
+!MESSAGE Resource leak: 'sc2' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:28.862
+!MESSAGE Resource leak: 'sc3' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:28.863
+!MESSAGE 5 problems reported for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:28.864
+!MESSAGE Validated 1. Took 153 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:30.401
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:30.785
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:31.133
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:31.726
+!MESSAGE >> document/formatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:31.849
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:31.886
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:31.919
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:31.928
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:31.993
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:32.210
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:32.524
+!MESSAGE begin problem for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:32.526
+!MESSAGE Resource leak: 'sc' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:32.527
+!MESSAGE Resource leak: 'sc2' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:32.528
+!MESSAGE Resource leak: 'sc3' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:32.529
+!MESSAGE 5 problems reported for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:32.530
+!MESSAGE Validated 1. Took 86 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:32.938
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:33.393
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:34.101
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:38.138
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:41.060
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:41.614
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:43.674
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:44.008
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:44.839
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:45.131
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:45.378
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:45.796
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:45.876
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:45.989
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.371
+!MESSAGE begin problem for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.373
+!MESSAGE Resource leak: 'sc' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.375
+!MESSAGE Resource leak: 'sc1' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.377
+!MESSAGE Resource leak: 'sc2' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.378
+!MESSAGE Resource leak: 'sc3' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.379
+!MESSAGE 5 problems reported for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.380
+!MESSAGE Validated 1. Took 102 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.516
+!MESSAGE >> document/formatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.558
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.590
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.595
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.617
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:46.893
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:47.147
+!MESSAGE begin problem for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:47.149
+!MESSAGE Resource leak: 'sc' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:47.151
+!MESSAGE Resource leak: 'sc1' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:47.153
+!MESSAGE Resource leak: 'sc2' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:47.154
+!MESSAGE Resource leak: 'sc3' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:47.155
+!MESSAGE 5 problems reported for /AdvCalculator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:47.156
+!MESSAGE Validated 1. Took 88 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:50.661
+!MESSAGE >> document/formatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:50.699
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:50.886
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:53.223
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:53.225
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:53.283
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-25 02:52:53.297
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-03-28 03:21:51.462 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.3
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/arpangreat/javaexsnew
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.397
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.665
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.717
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.720
+!MESSAGE Initializing Java Language Server 1.10.0.202203080832
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.726
+!MESSAGE No workspace folders or root uri was defined. Falling back on /home/arpangreat/javaexsnew
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.761
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.762
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.772
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.773
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.787
+!MESSAGE ProjectRegistryRefreshJob finished 12ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.788
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:53.816
+!MESSAGE Started org.eclipse.buildship.core 29ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:54.713
+!MESSAGE LoadingGradleVersionJob finished 895ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:54.785
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:55.728
+!MESSAGE Workspace initialized in 1011ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:55.758
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:55.768
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:55.785
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:55.790
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:55.791
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:56.406
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:56.945
+!MESSAGE begin problem for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:56.948
+!MESSAGE Resource leak: 's' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:56.949
+!MESSAGE 2 problems reported for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:56.955
+!MESSAGE Validated 1. Took 123 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:21:59.265
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:00.442
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:01.044
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:01.941
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:02.364
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:03.501
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:04.304
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:13.068
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:13.229
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:13.504
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:17.027
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:18.062
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:18.136
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:18.351
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:18.371
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:18.443
+!MESSAGE Reconciled 1. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:18.731
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:18.813
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:18.825
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:18.860
+!MESSAGE Reconciled 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:19.154
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:19.361
+!MESSAGE begin problem for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:19.365
+!MESSAGE The method dijkstra(int[][]) from the type DijkstraAlgo is never used locally is of type UnusedPrivateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:19.365
+!MESSAGE 2 problems reported for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:19.367
+!MESSAGE Validated 1. Took 104 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:22.088
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:22.113
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:22.118
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:22.170
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:22.698
+!MESSAGE begin problem for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:22.701
+!MESSAGE 2 problems reported for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:22.704
+!MESSAGE Validated 1. Took 83 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:23.444
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:23.521
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:23.596
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:23.669
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:24.168
+!MESSAGE begin problem for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:24.168
+!MESSAGE 1 problems reported for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:24.169
+!MESSAGE Validated 1. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:24.429
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:25.057
+!MESSAGE >> document/formatting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:25.163
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:25.208
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:25.215
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:25.237
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:25.510
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:25.750
+!MESSAGE begin problem for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:25.753
+!MESSAGE 1 problems reported for /DijkstraAlgo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:25.776
+!MESSAGE Validated 1. Took 106 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:29.788
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:31.469
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:32.945
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:32.946
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:33.000
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-03-28 03:22:33.010
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

@@ -91,7 +91,7 @@ public class AdvCalculator {
 		m3r[0][1] = sc2.nextDouble();
 		System.out.println("Enter Row1-Col3");
 		m3r[0][2] = sc2.nextDouble();
-		System.out.println("Enter Row2-Col1");
+      		System.out.println("Enter Row2-Col1");
 		m3r[1][0] = sc2.nextDouble();
 		System.out.println("Enter Row2-Col2");
 		m3r[1][1] = sc2.nextDouble();

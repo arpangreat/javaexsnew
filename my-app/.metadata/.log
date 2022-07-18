@@ -1,0 +1,184 @@
+!SESSION 2022-07-19 04:35:29.315 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=18.0.1.1
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Djava.import.generatesMetadataFilesAtProjectRoot=false -Xmx1G -Xms100m
+Command-line arguments:  -data /home/arpangreat/javaexsnew/my-app -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Djava.import.generatesMetadataFilesAtProjectRoot=false -Xmx1G -Xms100m
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.627
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.763
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.796
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.798
+!MESSAGE Initializing Java Language Server 1.14.0.202207181617
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.827
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.828
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.836
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.849
+!MESSAGE Wait for AutoBuildOffJob end 12ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.850
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.850
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.851
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.851
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.883
+!MESSAGE Started org.eclipse.buildship.core 31ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.883
+!MESSAGE LoadingGradleVersionJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.905
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:30.906
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:31.010
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:31.507
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:32.849
+!MESSAGE Workspace initialized in 1964ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:32.873
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:32.876
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:33.294
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:33.662
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:33.663
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:33.668
+!MESSAGE Validated 1. Took 364 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:33.686
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:33.736
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:33.736
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:38.398
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:38.480
+!MESSAGE Reconciled 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:38.618
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:38.692
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.113
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.113
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.113
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.114
+!MESSAGE Validated 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.182
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.652
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.652
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.652
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.800
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:39.867
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:40.279
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:40.280
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:40.280
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:40.433
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:40.442
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:40.500
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:40.967
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:40.967
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:40.968
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:44.271
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:47.847
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:50.625
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:54.302
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:55.827
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:55.830
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:55.855
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:55.860
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

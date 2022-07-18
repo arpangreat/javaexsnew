@@ -1,0 +1,106 @@
+!SESSION 2022-07-19 04:35:03.179 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=18.0.1.1
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Djava.import.generatesMetadataFilesAtProjectRoot=false -Xmx1G -Xms100m
+Command-line arguments:  -data /home/arpangreat/javaexsnew/Subsequences -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Djava.import.generatesMetadataFilesAtProjectRoot=false -Xmx1G -Xms100m
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:04.868
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.005
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.043
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.044
+!MESSAGE Initializing Java Language Server 1.14.0.202207181617
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.046
+!MESSAGE No workspace folders or root uri was defined. Falling back on /home/arpangreat/javaexsnew/Subsequences
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.068
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.068
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.073
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.075
+!MESSAGE Wait for AutoBuildOffJob end 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.075
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.076
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.076
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.076
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.108
+!MESSAGE Started org.eclipse.buildship.core 32ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.835
+!MESSAGE LoadingGradleVersionJob finished 726ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.860
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.865
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:05.984
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:06.661
+!MESSAGE Workspace initialized in 823ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:06.758
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:06.760
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:06.981
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:06.984
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:06.984
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:07.533
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:08.296
+!MESSAGE begin problem for /SubSDemo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:08.300
+!MESSAGE Resource leak: 'sc' is never closed is of type UnclosedCloseable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:08.301
+!MESSAGE 2 problems reported for /SubSDemo.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:08.308
+!MESSAGE Validated 1. Took 328 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:16.749
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:16.758
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:16.771
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-19 04:35:16.776
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

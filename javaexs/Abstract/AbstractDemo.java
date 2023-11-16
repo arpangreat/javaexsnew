@@ -32,10 +32,6 @@ public class AbstractDemo{
 
 	Printer obj = new Printer();
 	obj.show(5.6);
-
-
-
-
 	}
 }
 

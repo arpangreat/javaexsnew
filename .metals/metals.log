@@ -1,0 +1,42 @@
+2023.09.01 15:55:25 INFO  Started: Metals version 0.11.12 in workspace '/home/arpangreat/javaexsnew' for client Neovim 0.10.0-dev+g4afd33e69.[0m
+Sep 01, 2023 3:55:25 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Sep 01, 2023 3:55:25 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Sep 01, 2023 3:55:25 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Sep 01, 2023 3:55:25 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/home/arpangreat/javaexsnew/.metals/metals (H2 2.1)
+Sep 01, 2023 3:55:26 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+Sep 01, 2023 3:55:26 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.016s)
+Sep 01, 2023 3:55:26 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+Sep 01, 2023 3:55:26 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+Sep 01, 2023 3:55:26 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+Sep 01, 2023 3:55:26 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+Sep 01, 2023 3:55:26 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+Sep 01, 2023 3:55:26 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+Sep 01, 2023 3:55:26 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.075s)
+2023.09.01 15:55:26 INFO  time: initialize in 0.93s[0m
+2023.09.01 15:55:26 WARN  Build server is not auto-connectable.[0m
+2023.09.01 15:55:26 WARN  no build tool detected in workspace '/home/arpangreat/javaexsnew'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.09.01 15:55:26 WARN  no build target for: /home/arpangreat/javaexsnew/javaexs/shebang/Main.java[0m
+2023.09.01 15:55:27 WARN  Running javac-semanticdb failed for file:///home/arpangreat/javaexsnew/javaexs/shebang/Main.java. Output:
+/home/arpangreat/javaexsnew/javaexs/shebang/Main.java:1: error: illegal character: '#'
+#!/usr/lib/jvm/default --source version
+^
+/home/arpangreat/javaexsnew/javaexs/shebang/Main.java:1: error: class, interface, enum, or record expected
+#!/usr/lib/jvm/default --source version
+  ^
+2 errors[0m
+2023.09.01 15:55:28 INFO  Shutting down server[0m
+2023.09.01 15:55:28 INFO  shutting down Metals[0m
+2023.09.01 15:55:28 INFO  Exiting server[0m

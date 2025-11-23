@@ -1,0 +1,21 @@
+
+# Gradle
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Compiled
+*.class
+
+# JDTLS
+.classpath
+.project
+.settings/
+bin/

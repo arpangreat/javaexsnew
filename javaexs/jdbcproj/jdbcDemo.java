@@ -1,7 +1,7 @@
 import java.sql.*;
 
-public class Geeks {
-  public static void main(String[] args) {
-    Class.forName("com.mysql.cj.jdbc.Driver")  
+public class jdbcDemo {
+  public static void main(String[] args) throws ClassNotFoundException {
+    Class.forName("com.mysql.cj.jdbc.Driver");
   }
 }
